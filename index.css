@@ -117,6 +117,10 @@ input:focus{
     z-index: 5;
 }
 
+.eye-pos:hover{
+    cursor: pointer;
+}
+
 h2{
     font-size: 17px;
     font-weight: 700;
